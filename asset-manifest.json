@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portofolio-New/static/css/main.d7c715bb.css",
+    "main.js": "/Portofolio-New/static/js/main.1475cb64.js",
+    "static/js/453.ad79d124.chunk.js": "/Portofolio-New/static/js/453.ad79d124.chunk.js",
+    "static/media/IsiCard.jpg": "/Portofolio-New/static/media/IsiCard.93debee3433716247fce.jpg",
+    "static/media/Foto.jpg": "/Portofolio-New/static/media/Foto.0c2c73ba04f1a4a0c2de.jpg",
+    "static/media/Logo.png": "/Portofolio-New/static/media/Logo.70755fd9f4df82b61575.png",
+    "index.html": "/Portofolio-New/index.html",
+    "main.d7c715bb.css.map": "/Portofolio-New/static/css/main.d7c715bb.css.map",
+    "main.1475cb64.js.map": "/Portofolio-New/static/js/main.1475cb64.js.map",
+    "453.ad79d124.chunk.js.map": "/Portofolio-New/static/js/453.ad79d124.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c715bb.css",
+    "static/js/main.1475cb64.js"
+  ]
+}
